@@ -1,0 +1,51 @@
+﻿[Arrow]
+Path=Luxus normal.cur
+
+[Help]
+Path=Luxus help.cur
+
+[AppStarting]
+Path=Luxus working.ani
+
+[Wait]
+Path=Luxus busy.ani
+
+[Crosshair]
+Path=Luxus precision.cur
+
+[IBeam]
+Path=Luxus text.cur
+
+[NWPen]
+Path=Luxus handwriting.cur
+
+[No]
+Path=Luxus unavailable.cur
+
+[SizeNS]
+Path=Luxus vertical.cur
+
+[SizeWE]
+Path=Luxus horizontal.cur
+
+[SizeNWSE]
+Path=Luxus diagonal 1.cur
+
+[SizeNESW]
+Path=Luxus diagonal 2.cur
+
+[SizeAll]
+Path=Luxus move.cur
+
+[UpArrow]
+Path=Luxus alternate.cur
+
+[Hand]
+Path=Luxus link.cur
+
+[Pin]
+Path=Luxus location.cur
+
+[Person]
+Path=Luxus person.cur
+

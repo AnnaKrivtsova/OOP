@@ -1,0 +1,41 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:_6_7lab.Resources"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="CurrentLanguage">Выбор языка</v:String>
+    <v:String x:Key="CurrentTheme">Выбор темы</v:String>
+    <v:String x:Key="LightTheme">Светлая тема</v:String>
+    <v:String x:Key="DarkTheme">Темная тема</v:String>
+    <v:String x:Key="Undo">Вперед</v:String>
+    <v:String x:Key="Redo">Назад</v:String>
+    <v:String x:Key="Edit">Редактировать</v:String>
+    <v:String x:Key="Exit">Выход</v:String>
+    <v:String x:Key="Help">Справка</v:String>
+    <v:String x:Key="isClient">Роль клиента</v:String>
+    <v:String x:Key="m_Title">Репетитор</v:String>
+    <v:String x:Key="m_Subjects">Предметы</v:String>
+    <v:String x:Key="m_Tutors">Репетиторы</v:String>
+    <v:String x:Key="m_Add_Tutor">Добавить репетитора</v:String>
+    <v:String x:Key="m_English">Английский язык</v:String>
+    <v:String x:Key="m_Russian">Русский язык</v:String>
+    <v:String x:Key="m_Spanish">Испанский язык</v:String>
+    <v:String x:Key="m_Italian">Итальянский язык</v:String>
+    <v:String x:Key="m_French">Французский язык</v:String>
+    <v:String x:Key="m_German">Немецкий язык</v:String>
+
+    <v:String x:Key="Name">Имя</v:String>
+    <v:String x:Key="Surname">Фамилия</v:String>
+    <v:String x:Key="Lastname">Отчество</v:String>
+    <v:String x:Key="Age">Возраст</v:String>
+    <v:String x:Key="Lenguage">Язык</v:String>
+    <v:String x:Key="Description">Описание</v:String>
+    <v:String x:Key="Photo">Фото</v:String>
+    <v:String x:Key="Raiting">Рейтинг</v:String>
+    <v:String x:Key="Price">Стоимость работы за час</v:String>
+    <v:String x:Key="Add_photo_button">Добавить из файла</v:String>
+    <v:String x:Key="Add_tutor_button">Добавить</v:String>
+    <v:String x:Key="Update_tutor_button">Обновить</v:String>
+    <v:String x:Key="No_Result">Нет репетиторов, которые преподают</v:String>
+    <v:String x:Key="Update">Редактировать</v:String>
+    <v:String x:Key="Delete">Удалить</v:String>
+</ResourceDictionary>

@@ -1,0 +1,39 @@
+D:\4 sem\ООП\10lab\10lab\bin\Debug\10lab.exe.config
+D:\4 sem\ООП\10lab\10lab\bin\Debug\10lab.exe
+D:\4 sem\ООП\10lab\10lab\bin\Debug\10lab.pdb
+D:\4 sem\ООП\10lab\10lab\obj\Debug\10lab.csprojAssemblyReference.cache
+D:\4 sem\ООП\10lab\10lab\obj\Debug\MainWindow.g.cs
+D:\4 sem\ООП\10lab\10lab\obj\Debug\App.g.cs
+D:\4 sem\ООП\10lab\10lab\obj\Debug\10lab_MarkupCompile.cache
+D:\4 sem\ООП\10lab\10lab\obj\Debug\10lab_MarkupCompile.lref
+D:\4 sem\ООП\10lab\10lab\obj\Debug\MainWindow.baml
+D:\4 sem\ООП\10lab\10lab\obj\Debug\10lab.g.resources
+D:\4 sem\ООП\10lab\10lab\obj\Debug\_10lab.Properties.Resources.resources
+D:\4 sem\ООП\10lab\10lab\obj\Debug\10lab.csproj.GenerateResource.cache
+D:\4 sem\ООП\10lab\10lab\obj\Debug\10lab.csproj.CoreCompileInputs.cache
+D:\4 sem\ООП\10lab\10lab\obj\Debug\10lab.exe
+D:\4 sem\ООП\10lab\10lab\obj\Debug\10lab.pdb
+D:\4 sem\ООП\10lab\10lab\bin\Debug\Xamarin.Forms.Core.dll
+D:\4 sem\ООП\10lab\10lab\bin\Debug\Xamarin.Forms.Platform.dll
+D:\4 sem\ООП\10lab\10lab\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\4 sem\ООП\10lab\10lab\bin\Debug\Xamarin.Forms.Core.pdb
+D:\4 sem\ООП\10lab\10lab\bin\Debug\Xamarin.Forms.Core.xml
+D:\4 sem\ООП\10lab\10lab\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\4 sem\ООП\10lab\10lab\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\4 sem\ООП\10lab\10lab\obj\Debug\Main page.g.cs
+D:\4 sem\ООП\10lab\10lab\obj\Debug\Main page.baml
+D:\4 sem\ООП\10lab\10lab\obj\Debug\10lab.csproj.CopyComplete
+D:\4 sem\ООП\10lab\10lab\obj\Debug\Reading Page.g.cs
+D:\4 sem\ООП\10lab\10lab\obj\Debug\Reading Page.baml
+D:\4 sem\ООП\10lab\10lab\obj\Debug\Delete.g.cs
+D:\4 sem\ООП\10lab\10lab\obj\Debug\Delete.baml
+D:\4 sem\ООП\10lab\10lab\obj\Debug\Update Page.g.cs
+D:\4 sem\ООП\10lab\10lab\obj\Debug\Update Page.baml
+D:\4 sem\ООП\10lab\10lab\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\4 sem\ООП\10lab\10lab\bin\Debug\System.Security.AccessControl.dll
+D:\4 sem\ООП\10lab\10lab\bin\Debug\System.Security.Permissions.dll
+D:\4 sem\ООП\10lab\10lab\bin\Debug\System.Security.Principal.Windows.dll
+D:\4 sem\ООП\10lab\10lab\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\4 sem\ООП\10lab\10lab\bin\Debug\System.Security.AccessControl.xml
+D:\4 sem\ООП\10lab\10lab\bin\Debug\System.Security.Permissions.xml
+D:\4 sem\ООП\10lab\10lab\bin\Debug\System.Security.Principal.Windows.xml

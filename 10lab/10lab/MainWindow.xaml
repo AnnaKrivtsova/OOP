@@ -1,0 +1,34 @@
+﻿<Window x:Class="_10lab.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10lab"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="MainGrid">
+        <StackPanel Margin="0,15,0,0" Name="MainWindowStackPanel">
+        <Frame x:Name="frame">
+        </Frame>
+        </StackPanel>
+        <Grid>
+            <Menu Name="MainMenu" VerticalAlignment="Top" Background="LightBlue">
+                <MenuItem x:Name="Actions" Header="Actions">
+                    <MenuItem Name="Insert" Header="Insert" Tag="Insert" Click="ShowInsertPage"></MenuItem>
+                    <MenuItem Name="Update" Header="Update" Tag="Update" Click="ShowUpdatePage"></MenuItem>
+                    <MenuItem Name="Delete" Header="Delete" Tag="Delete" Click="ShowDeletePage"></MenuItem>
+                    <MenuItem Name="Reading" Header="Read" Tag="Reading" Click="ShowReadingPage">
+                        <MenuItem Name="SortId" Header="Sort by id">
+                            <MenuItem Name="SortIdAscending2" Header="Ascending" Click="SortIdAscending"></MenuItem>
+                            <MenuItem Name="SortIdDescending2" Header="Descending" Click="SortIdDescending"></MenuItem>
+                        </MenuItem>
+                        <MenuItem Name="SortSurname" Header="Sort by surname">
+                            <MenuItem Name="SortSurnameAscending2" Header="Ascending" Click="SortSurnameAscending"></MenuItem>
+                            <MenuItem Name="SortSurnameDescending2" Header="Descending" Click="SortSurnameDescending"></MenuItem>
+                        </MenuItem>
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+        </Grid>
+    </Grid>
+</Window>

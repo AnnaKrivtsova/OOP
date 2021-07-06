@@ -1,0 +1,38 @@
+D:\4 sem\ООП\12lab\11lab\bin\Debug\11lab.exe.config
+D:\4 sem\ООП\12lab\11lab\bin\Debug\11lab.exe
+D:\4 sem\ООП\12lab\11lab\bin\Debug\11lab.pdb
+D:\4 sem\ООП\12lab\11lab\bin\Debug\EntityFramework.dll
+D:\4 sem\ООП\12lab\11lab\bin\Debug\EntityFramework.SqlServer.dll
+D:\4 sem\ООП\12lab\11lab\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\4 sem\ООП\12lab\11lab\bin\Debug\System.Security.AccessControl.dll
+D:\4 sem\ООП\12lab\11lab\bin\Debug\System.Security.Permissions.dll
+D:\4 sem\ООП\12lab\11lab\bin\Debug\System.Security.Principal.Windows.dll
+D:\4 sem\ООП\12lab\11lab\bin\Debug\EntityFramework.xml
+D:\4 sem\ООП\12lab\11lab\bin\Debug\EntityFramework.SqlServer.xml
+D:\4 sem\ООП\12lab\11lab\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\4 sem\ООП\12lab\11lab\bin\Debug\System.Security.AccessControl.xml
+D:\4 sem\ООП\12lab\11lab\bin\Debug\System.Security.Permissions.xml
+D:\4 sem\ООП\12lab\11lab\bin\Debug\System.Security.Principal.Windows.xml
+D:\4 sem\ООП\12lab\11lab\obj\Debug\12lab.csprojAssemblyReference.cache
+D:\4 sem\ООП\12lab\11lab\obj\Debug\Delete Page.g.cs
+D:\4 sem\ООП\12lab\11lab\obj\Debug\Insert Page.g.cs
+D:\4 sem\ООП\12lab\11lab\obj\Debug\MainWindow.g.cs
+D:\4 sem\ООП\12lab\11lab\obj\Debug\Read Page.g.cs
+D:\4 sem\ООП\12lab\11lab\obj\Debug\Search Page.g.cs
+D:\4 sem\ООП\12lab\11lab\obj\Debug\Update Page.g.cs
+D:\4 sem\ООП\12lab\11lab\obj\Debug\App.g.cs
+D:\4 sem\ООП\12lab\11lab\obj\Debug\11lab_MarkupCompile.cache
+D:\4 sem\ООП\12lab\11lab\obj\Debug\11lab_MarkupCompile.lref
+D:\4 sem\ООП\12lab\11lab\obj\Debug\Delete Page.baml
+D:\4 sem\ООП\12lab\11lab\obj\Debug\Insert Page.baml
+D:\4 sem\ООП\12lab\11lab\obj\Debug\MainWindow.baml
+D:\4 sem\ООП\12lab\11lab\obj\Debug\Read Page.baml
+D:\4 sem\ООП\12lab\11lab\obj\Debug\Search Page.baml
+D:\4 sem\ООП\12lab\11lab\obj\Debug\Update Page.baml
+D:\4 sem\ООП\12lab\11lab\obj\Debug\11lab.g.resources
+D:\4 sem\ООП\12lab\11lab\obj\Debug\_11lab.Properties.Resources.resources
+D:\4 sem\ООП\12lab\11lab\obj\Debug\12lab.csproj.GenerateResource.cache
+D:\4 sem\ООП\12lab\11lab\obj\Debug\12lab.csproj.CoreCompileInputs.cache
+D:\4 sem\ООП\12lab\11lab\obj\Debug\12lab.csproj.CopyComplete
+D:\4 sem\ООП\12lab\11lab\obj\Debug\11lab.exe
+D:\4 sem\ООП\12lab\11lab\obj\Debug\11lab.pdb

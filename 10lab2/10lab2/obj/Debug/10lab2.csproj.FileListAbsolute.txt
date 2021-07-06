@@ -1,0 +1,16 @@
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\10lab2.exe.config
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\10lab2.exe
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\10lab2.pdb
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\System.Security.AccessControl.dll
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\System.Security.Permissions.dll
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\System.Security.Principal.Windows.dll
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\System.Security.AccessControl.xml
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\System.Security.Permissions.xml
+D:\4 sem\ООП\10lab2\10lab2\bin\Debug\System.Security.Principal.Windows.xml
+D:\4 sem\ООП\10lab2\10lab2\obj\Debug\10lab2.csprojAssemblyReference.cache
+D:\4 sem\ООП\10lab2\10lab2\obj\Debug\10lab2.csproj.CoreCompileInputs.cache
+D:\4 sem\ООП\10lab2\10lab2\obj\Debug\10lab2.csproj.CopyComplete
+D:\4 sem\ООП\10lab2\10lab2\obj\Debug\10lab2.exe
+D:\4 sem\ООП\10lab2\10lab2\obj\Debug\10lab2.pdb
